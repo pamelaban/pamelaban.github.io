@@ -20,7 +20,7 @@ This course examines American politics from a computational point of view. Throu
 **POLI 100B — The U.S. Congress**  
 *University of California, San Diego (undergraduate)*
 
-The U.S. Congress is central to our understanding of policy, elections, and representative democracy. The purpose of this course is to examine two fundamental questions: (1) what do members of Congress do and why, and (2) how do the individual and collective actions of members of Congress explain national policy? We will examine the process of legislating as well as the role of political parties, leaders, and interest groups in congressional politics.
+The United States Congress is a central institution in American politics and a key arena for representation, lawmaking, and political conflict.  This course examines how Congress works, focusing on the behavior of individual legislators and the institutional rules that shape collective decision-making.  We will explore why members of Congress pursue particular electoral and legislative strategies, how parties and committees structure policymaking, and how Congress interacts with constituents, interest groups, and other political actors.  Through readings, lectures, and interactive exercises, students will develop a deeper understanding of the incentives, constraints, and strategic choices that influence congressional behavior.
 
 **POLI 100Z — Gender and American Politics**  
 *University of California, San Diego (undergraduate)*
