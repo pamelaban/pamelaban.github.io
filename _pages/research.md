@@ -15,7 +15,7 @@ Publisher's summary: Good public policy in a democracy relies on efficient and a
 
 ## Articles
 
-Ban, Pamela, Ju Yeon Park, and Hye Young You. 2026. "[Bureaucrats in Congress: The Politics of Interbranch Information Sharing.](https://www.dropbox.com/scl/fi/03zn9luhglxzozfhwm4ft/bureaucrats_in_congress_final.pdf?rlkey=7e1ur1esyrwq4av8nnle1r9c2&dl=0)" *Journal of Politics* 88(2): 449-892. [[pre-print](https://www.dropbox.com/scl/fi/043mgjdoz1ibnzx95um9g/bureaucrats_in_congress.pdf?rlkey=3x575ci9g8n1arhnnfxfvgyuw&dl=0)]
+Ban, Pamela, Ju Yeon Park, and Hye Young You. 2026. "[Bureaucrats in Congress: The Politics of Interbranch Information Sharing.](https://doi.org/10.1086/735440)" *Journal of Politics* 88(2): 787-804. [[pre-print](https://www.dropbox.com/scl/fi/043mgjdoz1ibnzx95um9g/bureaucrats_in_congress.pdf?rlkey=3x575ci9g8n1arhnnfxfvgyuw&dl=0)]
 
 Ban, Pamela and Seth J. Hill. 2025. "[Efficacy of Congressional Oversight.](https://doi.org/10.1017/S0003055424001242)" *American Political Science Review* 119(4): 1742-1760. [[open access PDF]](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/97E953579A6DFA76120CAE956522A862/S0003055424001242a.pdf/efficacy-of-congressional-oversight.pdf)
 
