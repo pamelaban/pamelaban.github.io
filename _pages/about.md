@@ -7,10 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-**Associate Professor of Political Science,**
-**University of California San Diego**
-
-I study American political institutions, with my research covering legislative politics, Congress, information dynamics in policy-making, and the interbranch relationship between Congress and the bureaucracy.
+I am an Associate Professor at the University of California, San Diego, where I specialize in American political institutions.  My research covers legislative politics, Congress, information dynamics in policy-making, and the interbranch relationship between Congress and the bureaucracy.
 
 My recent work advances a new understanding of how institutions shape the search and use of information in policy-making. Some of this research appears in my book *Hearings on the Hill: The Politics of Informing Congress* (with Ju Yeon Park and Hye Young You), published by Cambridge University Press and available [here](https://www.amazon.com/Hearings-Hill-Informing-Political-Institutions/dp/1009534076).
 
