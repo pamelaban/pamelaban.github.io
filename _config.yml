@@ -27,8 +27,8 @@ author:
   name             : "Pamela Ban"
   pronouns         : # example: "she/her"  
   bio              : "Associate Professor of Political Science"
-  location         : "San Diego, CA"
-  employer         : "UCSD"
+  location         : 
+  employer         : "UC San Diego"
   uri              : 
   email            : "pmban@ucsd.edu" 
 
