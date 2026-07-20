@@ -13,8 +13,6 @@ Publisher's summary: Good public policy in a democracy relies on efficient and a
 
 *Winner of the 2026 Alan Rosenthal Book Award, Legislative Studies Section, American Political Science Association*
 
-Publication date: November 28, 2024. Order on [Amazon](https://www.amazon.com/Hearings-Hill-Informing-Political-Institutions/dp/1009534076).
-
 ## Articles
 
 Ban, Pamela, Ju Yeon Park, and Hye Young You. 2026. "[Bureaucrats in Congress: The Politics of Interbranch Information Sharing.](https://www.dropbox.com/scl/fi/03zn9luhglxzozfhwm4ft/bureaucrats_in_congress_final.pdf?rlkey=7e1ur1esyrwq4av8nnle1r9c2&dl=0)" *Journal of Politics* 88(2): 449-892. [[pre-print](https://www.dropbox.com/scl/fi/043mgjdoz1ibnzx95um9g/bureaucrats_in_congress.pdf?rlkey=3x575ci9g8n1arhnnfxfvgyuw&dl=0)]
