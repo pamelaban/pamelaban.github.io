@@ -6,9 +6,8 @@
 #
 # NOTE that only one of the CV options should be selected, the first is for the
 #      Markdown formatted page while the second is generated using JSON.
-
 main:
-   - title: "Home"
+  - title: "Home"
     url: /
   - title: "CV"
     url: "https://www.dropbox.com/s/t8i2mvkz3456y5m/pban_cv.pdf?dl=0"
