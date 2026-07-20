@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-**Associate Professor of Political Science,
-University of California San Diego**
+**Associate Professor of Political Science,**
+**University of California San Diego**
 
 I study American political institutions, with my research covering legislative politics, Congress, information dynamics in policy-making, and the interbranch relationship between Congress and the bureaucracy.
 
