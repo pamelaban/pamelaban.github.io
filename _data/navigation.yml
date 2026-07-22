@@ -12,6 +12,6 @@ main:
   - title: "Research"
     url: /research/
   - title: "CV"
-    url: "https://www.dropbox.com/s/t8i2mvkz3456y5m/pban_cv.pdf?dl=0"
+    url: /files/pban_cv.pdf
   - title: "Teaching"
     url: /teaching/
