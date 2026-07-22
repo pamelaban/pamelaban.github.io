@@ -13,4 +13,4 @@ My recent work advances a new understanding of how institutions shape the search
 
 My other research is published in the *American Political Science Review*, *American Journal of Political Science*, *Quarterly Journal of Political Science*, *Legislative Studies Quarterly*, *Business and Politics*, *Journal of Political Institutions and Political Economy*, and *Political Science Research & Methods*. I received my Ph.D. in Political Economy and Government from Harvard University in 2018.
 
-My CV is available [here](https://www.dropbox.com/s/t8i2mvkz3456y5m/pban_cv.pdf?dl=0).
+My CV is available [here](/files/pban_cv.pdf).
