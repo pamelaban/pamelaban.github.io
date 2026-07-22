@@ -47,11 +47,8 @@
 }
 
 @media (max-width: 768px) {
-    #main {
-        padding-top: 0.5em;
-    }
-    .sidebar {
-        padding-top: 0;
-        margin-top: 0;
+    .sidebar.sticky {
+        padding-top: 0 !important;
+        top: auto !important;
     }
 }
