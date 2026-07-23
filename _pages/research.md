@@ -11,8 +11,6 @@ Ban, Pamela, Ju Yeon Park, and Hye Young You. 2024. [Hearings on the Hill: The P
 
 *Winner of the 2026 Alan Rosenthal Book Award, Legislative Studies Section, American Political Science Association*
 
-Publisher's summary: Good public policy in a democracy relies on efficient and accurate information flows between individuals with firsthand, substantive expertise and elected legislators. While legislators are tasked with the job of making and passing policy, they are politicians and not substantive experts. To make well-informed policy, they must rely on the expertise of others. Hearings on the Hill argues that partisanship and close competition for control of government shape the information that legislators collect, providing opportunities for party leaders and interest groups to control information flows and influence policy. It reveals how legislators strategically use committees and their hearings, a central institution of Congress, for information acquisition and dissemination, ultimately impacting policy development in American democracy. Marshalling extensive new data on hearings and witnesses from 1960 to 2018, this book offers the first comprehensive analysis of how partisan incentives determine how and from whom members of Congress seek information.
-
 ## Articles
 
 Ban, Pamela, Ju Yeon Park, and Hye Young You. 2026. "[Bureaucrats in Congress: The Politics of Interbranch Information Sharing.](https://doi.org/10.1086/735440)" *Journal of Politics* 88(2): 787-804. [[pre-print](https://www.dropbox.com/scl/fi/043mgjdoz1ibnzx95um9g/bureaucrats_in_congress.pdf?rlkey=3x575ci9g8n1arhnnfxfvgyuw&dl=0)]
